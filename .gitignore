@@ -1,3 +1,10 @@
+## Output
+Algorithmen.pdf
+
+## Visual Studio Code
+.vscode
+*temp.tex
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
